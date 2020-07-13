@@ -1,0 +1,11 @@
+{
+	"tech.moddable.runmod-piu": {
+		"mods": [
+			{
+				"path": "simple-timer",
+				"title": "Simple Timer",
+				"description": "Provides a simple timer, such as for timing exercise intervals. Tapping anywhere on the screen resets the timer. A settings button allows switching between dark and light mode."
+			},
+		]
+	}
+}
