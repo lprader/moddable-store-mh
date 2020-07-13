@@ -1,0 +1,14 @@
+{
+	"modules": {
+		"*": "./example"
+	},
+	"resources":{
+		"*": [
+			"./settings",
+			"./settings-black",
+		],
+		"*-alpha": [
+			"./roboto-120"
+		]
+	}
+}
