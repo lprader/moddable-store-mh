@@ -1,5 +1,11 @@
 {
 	"tech.moddable.runmod-piu": {
+		"app": {
+			"title": "Piu host",
+			"author": "Moddable",
+			"description": "Host for applications that use the Piu user interface framework",
+			"home": "https://github.com/lprader/moddable-store-apps/tree/master/runmod-piu"
+		},
 		"mods": [
 			{
 				"path": "simple-timer",
@@ -7,5 +13,5 @@
 				"description": "Provides a simple timer, such as for timing exercise intervals. Tapping anywhere on the screen resets the timer. A settings button allows switching between dark and light mode."
 			},
 		]
-	}
+	},
 }
