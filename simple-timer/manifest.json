@@ -5,7 +5,7 @@
 	"resources":{
 		"*": [
 			"./settings",
-			"./settings-black",
+			"./settings-black"
 		],
 		"*-alpha": [
 			"./roboto-120"

@@ -11,7 +11,7 @@
 					"com.moddable.two",
 					"com.moddable.wasm"
 				]	
-			},
+			}
 		]
-	},
+	}
 }
