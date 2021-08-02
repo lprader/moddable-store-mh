@@ -9,7 +9,9 @@
 				"devices": [
 					"com.moddable.one",
 					"com.moddable.two",
-					"com.moddable.wasm"
+					"com.moddable.wasm",
+					"com.moddable.display_1",
+					"com.moddable.display_2"
 				]	
 			}
 		]
